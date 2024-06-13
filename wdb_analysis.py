@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Cargar los datos en un DataFrame (reemplaza 'tu_archivo.xlsx' con el nombre de tu archivo)
+# Cargar los datos en un DataFrame 
 df = pd.read_excel(r'C:\Users\adria\OneDrive\Escritorio\Modelo econometrico\Modelo-econometrico\AllCountriesDataframe.xlsx')
 
 # Mostrar una muestra de los datos
